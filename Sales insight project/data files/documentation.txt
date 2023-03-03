@@ -1,0 +1,6 @@
+1-we imported all files in sql
+2-we done basic analysis there 
+3-we load data in powerbi connection to database
+4-we build the model by relationship amongst tables
+5-we do data cleaning and data transformation in power query
+6-Then finally we build the dashboard
